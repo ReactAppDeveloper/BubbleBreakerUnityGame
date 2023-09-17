@@ -1,0 +1,53 @@
+Initialize engine version: 4.6.0b21 (bee422ec5c5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     112 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unity projects\BubbleBreaker-master\wow_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unity projects\BubbleBreaker-master\wow_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.865 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\unity projects\BubbleBreaker-master\wow_Data\Managed\System.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at StartScene.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 19.692427 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 2.795953 ms (FindLiveObjects: 0.068223 ms CreateObjectMapping: 0.036828 ms MarkObjects: 0.301873 ms  DeleteObjects: 0.973844 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 3.408153 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 6.021775 ms (FindLiveObjects: 0.035621 ms CreateObjectMapping: 0.029583 ms MarkObjects: 0.487224 ms  DeleteObjects: 4.161630 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StartScene.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
